@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator using Express.js and handlebars from the exercises of Software Technologies
+Simple calculator using template from Software technologies resources for the bootstrap etc.
